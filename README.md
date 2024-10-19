@@ -8,7 +8,7 @@ To keep things organized, resources are categorized by type. This will help me q
 
 ### Current Categories
 
-1. **Blogs**
+1. [ **Blogs**](/docs/Blogs.md)
    - Blogs covering the latest models and techniques in Generative AI
   
 2. **Youtube videos / learning resources**
