@@ -12,9 +12,15 @@ To keep things organized, resources are categorized by type. This will help me q
    - Blogs covering the latest models and techniques in Generative AI
   
 2. **Youtube videos / learning resources**
-   - Youtube videos and turorials. 
+   - Youtube videos and turorials.
+  
+3. **AI Engineer Roadmap**
+
+   [Roadmap](https://roadmap.sh/ai-engineer)
+
 4. **Personal Views / insights**
-   
+
+   [What it takes to build a Generative AI based application.](https://medium.com/@siddharthchopda03/what-it-takes-to-build-a-generative-ai-based-application-720e8c0b8b5f)
 
 ### Example Entry Format
 
