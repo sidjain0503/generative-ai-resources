@@ -11,14 +11,14 @@ To keep things organized, resources are categorized by type. This will help me q
 1. [ **Blogs**](/docs/Blogs.md)
    - Blogs covering the latest models and techniques in Generative AI
   
-2. **Youtube videos / learning resources**
+2. **[Youtube videos / learning resources](/docs/youtube.md)**
    - Youtube videos and turorials.
   
 3. **AI Engineer Roadmap**
 
    [Roadmap](https://roadmap.sh/ai-engineer)
 
-4. **Personal Views / insights**
+4. **Personal/Insights**
 
    [What it takes to build a Generative AI based application.](https://medium.com/@siddharthchopda03/what-it-takes-to-build-a-generative-ai-based-application-720e8c0b8b5f)
 
@@ -37,11 +37,5 @@ When adding new resources, I'll follow this structure to maintain consistency:
 - This repository is mainly for **my personal reference**, and may not be as polished as a public project.
 - I'll regularly update it as I come across new resources.
 - As of now, this repository is private, but I might decide to share it publicly later if I think it's useful for others.
-
-## 📋 To-Do List
-
-- [ ] Regularly review and categorize new resources.
-- [ ] Evaluate if additional categories are needed as the repository grows.
-- [ ] Consider adding a tag or rating system to prioritize certain resources.
 
 ---
