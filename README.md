@@ -22,6 +22,8 @@ To keep things organized, resources are categorized by type. This will help me q
 
    [What it takes to build a Generative AI based application.](https://medium.com/@siddharthchopda03/what-it-takes-to-build-a-generative-ai-based-application-720e8c0b8b5f)
 
+5. **Courses**
+  - Find the best AI related courses on [Deeplearning.ai](https://learn.deeplearning.ai/)
 ### Example Entry Format
 
 When adding new resources, I'll follow this structure to maintain consistency:
