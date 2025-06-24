@@ -8,14 +8,14 @@ To keep things organized, resources are categorized by type. This will help me q
 
 ### Current Categories
 
-1. [ **Blogs**](/docs/Blogs.md)
+1. [**Blogs**](/docs/Blogs.md)
    - Blogs covering the latest models and techniques in Generative AI
   
 2. **[Youtube videos / learning resources](/docs/youtube.md)**
    - Youtube videos and turorials.
   
 3. **AI Engineer Roadmap**
-
+   [**AI Engineer Roadmap**](/docs/aiengineer.md)
    [Roadmap](https://roadmap.sh/ai-engineer)
 
 4. **Personal/Insights**
