@@ -16,6 +16,8 @@ Here's my personal list of blogs which i find interesting. If you do too, we can
 
 1. ### [**A Guide to LLM orchestration**](https://orq.ai/blog/llm-orchestration)
 2. ### [**RAG in Production: Deployment Strategies and Practical Considerations**](https://coralogix.com/ai-blog/rag-in-production-deployment-strategies-and-practical-considerations/)
+3. ### [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
+4. ### [LLMOps](https://www.swaroopch.com/llmops#11b0924249b180b29299c6ee8494eaf4)
 
 
 ### 🟢 Core GenAI Integration Skills
