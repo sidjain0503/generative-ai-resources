@@ -33,11 +33,4 @@ When adding new resources, I'll follow this structure to maintain consistency:
 **Description:** Brief overview of what the resource covers or its significance.
 **Category:** Choose from the categories listed above.
 ```
-
-## 📌 Personal Notes
-
-- This repository is mainly for **my personal reference**, and may not be as polished as a public project.
-- I'll regularly update it as I come across new resources.
-- As of now, this repository is private, but I might decide to share it publicly later if I think it's useful for others.
-
 ---
