@@ -37,21 +37,6 @@ Each project includes:
 
 **Access all projects here:** [All Hands-on Projects Consolidated](./all_projects_consolidated.md)
 
-## How to Use This Repository
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/ai-engineer-learning-path.git
-    cd ai-engineer-learning-path
-    ```
-2.  **Start with the Learning Guide:** Begin by reading the `ai_engineer_guide_expanded.md` to understand the curriculum and pacing recommendations.
-3.  **Engage with Projects:** As you progress through the modules, work on the corresponding projects detailed in `all_projects_consolidated.md` to apply your knowledge.
-4.  **Self-Paced Learning:** Feel free to adjust the pace based on your existing knowledge and learning style. The guide is designed to be flexible.
-
-## Contributing
-
-If you find any issues, have suggestions for improvements, or want to contribute new content (e.g., additional resources, project ideas), please feel free to open an issue or submit a pull request. Your contributions are highly welcome!
-
 ## License
 
 This project is open-sourced under the [MIT License](LICENSE).
